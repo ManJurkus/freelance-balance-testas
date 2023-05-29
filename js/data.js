@@ -13,7 +13,7 @@ const account = [
     { month: 12, expense: 200 }
 ];
 
-const month = [
+const months = [
 January,
 February,
 March,
@@ -26,4 +26,4 @@ September,
 October,
 November,
 December
-]
+];
